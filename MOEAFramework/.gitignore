@@ -1,0 +1,13 @@
+bin/
+build/
+cov-int/
+dist/
+pisa/
+test-results/
+javadoc/
+maven/
+.settings/
+*.exe
+*~
+.pydevproject
+jMetal.log*

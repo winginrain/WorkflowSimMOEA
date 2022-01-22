@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MOEAFramework.iml" filepath="$PROJECT_DIR$/MOEAFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auxiliary/eclipse/MOEAFramework-%VERSION%.iml" filepath="$PROJECT_DIR$/auxiliary/eclipse/MOEAFramework-%VERSION%.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WorkflowSim-1.0/WorkflowSim-1.0.iml" filepath="$PROJECT_DIR$/../WorkflowSim-1.0/WorkflowSim-1.0.iml" />
+    </modules>
+  </component>
+</project>
